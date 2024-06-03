@@ -21,7 +21,7 @@ simplelog = "0.12.2"
 time = "0.3.34"
 serde_json = "1.0.115"
 password-hash = "0.5.0"
-tokio = { version = "1.37.0", features = ["rt", "rt-multi-thread", "macros"] }
+tokio = { version = "1.38.0", features = ["rt", "rt-multi-thread", "macros"] }
 pbkdf2 = "0.12.2"
 actix-session = { version = "0.9.0", features = ["cookie-session"] }
 actix-identity = "0.7.1"
