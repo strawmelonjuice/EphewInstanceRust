@@ -31,7 +31,7 @@ home = "0.5.9"
 magic-crypt = "3.1.13"
 rand = "0.8.5"
 build_const = "0.2.2"
-regex = "1.10.4"
+regex = "1.10.5"
 markdown = "1.0.0-alpha.17"
 [build-dependencies]
 build_const = "0.2.2"
